@@ -2,6 +2,10 @@
 
 An interactive Streamlit application demonstrating calibration status verification, dimensional tolerance evaluation, and inspection decision logic using synthetic manufacturing data.
 
+## 🚀 Live Demo
+
+[Launch the Quality Calibration Checker](PASTE-YOUR-STREAMLIT-URL-HERE)
+
 ## 🎯 Purpose
 
 This project demonstrates how basic quality inspection rules can be translated into Python decision logic.
