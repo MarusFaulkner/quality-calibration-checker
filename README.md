@@ -4,7 +4,7 @@ An interactive Streamlit application demonstrating calibration status verificati
 
 ## 🚀 Live Demo
 
-[Launch the Quality Calibration Checker](...)
+[Launch the Quality Calibration Checker](https://quality-calibration-checker.streamlit.app)
 
 ## 📸 Application Preview
 
